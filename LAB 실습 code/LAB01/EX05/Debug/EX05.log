@@ -1,0 +1,4 @@
+﻿  EX05.cpp
+C:\Users\lucky\바탕 화면\LAB01\EX05\EX05.cpp(6,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lucky\바탕 화면\LAB01\EX05\EX05.cpp(14,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EX05.vcxproj -> C:\Users\lucky\바탕 화면\LAB01\Debug\EX05.exe
