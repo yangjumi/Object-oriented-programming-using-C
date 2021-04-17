@@ -1,0 +1,5 @@
+﻿  EX05.cpp
+C:\Users\lucky\바탕 화면\객체지향프로그래밍\LAB05\EX05\EX05.cpp(41,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lucky\바탕 화면\객체지향프로그래밍\LAB05\EX05\EX05.cpp(42,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lucky\바탕 화면\객체지향프로그래밍\LAB05\EX05\EX05.cpp(44,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EX05.vcxproj -> C:\Users\lucky\바탕 화면\객체지향프로그래밍\LAB05\Debug\EX05.exe
