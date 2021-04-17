@@ -1,0 +1,17 @@
+﻿  EX04.cpp
+C:\Users\lucky\바탕 화면\LAB11\EX04\EX04.cpp(97,25): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\lucky\바탕 화면\LAB11\EX04\EX04.cpp(99,25): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\lucky\바탕 화면\LAB11\EX04\EX04.cpp(100,25): warning C4305: '인수': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+  EX04.vcxproj -> C:\Users\lucky\바탕 화면\LAB11\Debug\EX04.exe
