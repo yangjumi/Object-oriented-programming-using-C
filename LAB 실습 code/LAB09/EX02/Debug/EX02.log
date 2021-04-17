@@ -1,0 +1,4 @@
+﻿  EX02.cpp
+C:\Users\lucky\바탕 화면\LAB09\EX02\EX02.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\lucky\바탕 화면\LAB09\EX02\EX02.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EX02.vcxproj -> C:\Users\lucky\바탕 화면\LAB09\Debug\EX02.exe
