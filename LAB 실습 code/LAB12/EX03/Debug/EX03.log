@@ -1,0 +1,3 @@
+﻿  EX03.cpp
+C:\Users\lucky\바탕 화면\LAB12\EX03\EX03.cpp(52,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  EX03.vcxproj -> C:\Users\lucky\바탕 화면\LAB12\Debug\EX03.exe
